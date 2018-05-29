@@ -1,17 +1,17 @@
 .jumbotron {
-  background: #FAF764;
-  color: #000;
+  color: #fff;
+  background-color: #C48142;
 }
 
 h1 {
-  color: #ff9900;
+  color: #C48142;
   font-size: 40px;
   font-weight: bold;
 }
 
 #title {
-  color: #000;
-  font-size: 40px;
+  color: #fff;
+  font-size: 45px;
   font-weight: normal;
 }
 
@@ -28,5 +28,16 @@ h1 {
 }
 
 #version {
-  padding-left: 20px;
+  padding-right: 50px;
+}
+
+a {
+   text-decoration: none ;
+   color: #cecece;
+}
+
+a:hover {
+  color: white;
+  text-decoration:none;
+  cursor:pointer;
 }

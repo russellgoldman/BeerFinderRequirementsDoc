@@ -27,8 +27,8 @@ h1 {
   margin-right: 20vw;
 }
 
-#version {
-  padding-right: 50px;
+.smalltext {
+  font-size: 20px;
 }
 
 a {
